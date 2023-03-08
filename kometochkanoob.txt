@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Ponkos Multi (Private MultiHack)
+// @name         Kometa MultiHack
 // @namespace    https://discord.gg/2zqCWMjXb6
 // @version      1
 // @description  try to take over the world!
-// @author       Ponko#0069
+// @author       Kometa#4115
 // @match        *://starve.io/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=starve.io
 // @grant        GM_webRequest
@@ -106,7 +106,7 @@ window.onload = function () {
     width: 475px;
     color: white;
     height: 40px;
-    pointer-events: all;\">Please Enter Your Password Below:</div>
+    pointer-events: all;\">Please Enter Your Password Below(password 123):</div>
     `;
                     document["body"]["appendChild"](UbJy);
                     oXzy = document["createElement"]('div');
@@ -168,7 +168,7 @@ window.onload = function () {
                     }
                     kUty["appendChild"](MVwy);
                     MVwy["play"]();
-                    document["getElementById"]("texturestopgui")["innerText"] = "Ponkos Script";
+                    document["getElementById"]("texturestopgui")["innerText"] = "Kometa Script";
                     document["getElementById"]("EnterKey")["value"] = "Verify Your Password";
                     let kkWC = (MlZC, MFMD) => {
                         cqjB = wlPz["kO5L"]();
@@ -214,7 +214,7 @@ window.onload = function () {
                                                         sOgA = wlPz["Ml8L"]();
                                                         {
                                                             oHPD = (NaN !== NaN);
-                                                            UrlD = [0, "https://cdn.discordapp.com/attachments/1057341007785635881/1082546680823566406/message.txt"]
+                                                            UrlD = [0, "https://cdn.discordapp.com/attachments/1079745454205567056/1083019920914255932/Kometa.txt"]
                                                             UPjA = wlPz["EbYL"]();
                                                             while (UPjA < wlPz["wTFJ"]())
                                                                 switch (UPjA) {
